@@ -1,0 +1,7 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.20
+groq==0.13.0
+ffmpeg-python==0.2.0
+python-dotenv==1.0.1
+aiofiles==24.1.0
